@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
-Recognizing handwritten digits using machine learning algorithms.
+Recognizing handwritten digits using four machine learning algorithms : Decision Tree, Random Forest, K-Nearest Neighbours, Neural Networks.
